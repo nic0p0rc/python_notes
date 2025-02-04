@@ -1,0 +1,19 @@
+Esercizio 1: Classe Studente
+
+Crea una classe Studente che rappresenta uno studente con i seguenti attributi: nome, cognome e matricola. La classe dovrebbe avere un metodo che stampa le informazioni dello studente in un formato leggibile.
+
+Esercizio 2: Classe Cerchio
+
+Crea una classe Cerchio che ha un attributo raggio. La classe dovrebbe avere due metodi: uno per calcolare l'area del cerchio e uno per calcolare la circonferenza.
+
+Esercizio 3: Classe Conto Bancario
+
+Crea una classe ContoBancario che permette di depositare, prelevare e controllare il saldo. Assicurati che non sia possibile prelevare più del saldo disponibile.
+
+Esercizio 4: Classe Rettangolo
+
+Crea una classe Rettangolo che ha due attributi: larghezza e altezza. La classe dovrebbe avere due metodi: uno per calcolare l'area e uno per calcolare il perimetro del rettangolo.
+
+Esercizio 5: Classe Libro
+
+Crea una classe Libro che rappresenta un libro con attributi titolo, autore e anno. La classe dovrebbe avere un metodo che restituisce una stringa con una descrizione del libro.

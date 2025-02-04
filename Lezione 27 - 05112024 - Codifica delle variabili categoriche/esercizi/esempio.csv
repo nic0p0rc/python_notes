@@ -1,0 +1,6 @@
+ID,Età,Genere,Città
+1,25.0,,Roma
+2,NaN,M,Milano
+3,35.0,NaN,Roma
+4,40.0,M,Torino
+5,22.0,F,NaN
