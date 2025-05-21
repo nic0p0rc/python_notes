@@ -1,3 +1,4 @@
+#prova if elif else
 eta = int(input("inserisci l'età: "))
 
 if eta < 18:
